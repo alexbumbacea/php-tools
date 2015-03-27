@@ -1,1 +1,2 @@
 # php-tools
+composer install
